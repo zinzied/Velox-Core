@@ -3,7 +3,9 @@
 
 Velox is not just another API wrapper. It is a **motor** designed for professional AI developers who need control, observability, and resilience. 
 
-![Velox-Core](https://github.com/user-attachments/assets/6ed3e931-59a5-410a-aefe-18f1fa719148)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ed3e931-59a5-410a-aefe-18f1fa719148" alt="Velox-Core">
+</p>
 
 
 ## 🌟 Why Velox?
