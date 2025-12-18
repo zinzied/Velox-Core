@@ -14,7 +14,7 @@ setup(
     description="High-Performance Middleware Engine for LLMs",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/example/velox-core",
+    url="https://github.com/zinzied/velox-core",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
