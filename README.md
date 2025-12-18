@@ -27,6 +27,14 @@ We've just supercharged Velox with these powerful additions:
 
 ## 📦 Installation
 
+### 1. Standard Installation (via PyPI)
+Recommended for most users.
+```bash
+pip install velox-core
+```
+
+### 2. Development Installation (from Source)
+For contributors or local testing.
 ```bash
 # Clone the repository
 git clone https://github.com/your-repo/velox-core
