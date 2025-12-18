@@ -37,7 +37,7 @@ pip install velox-core
 For contributors or local testing.
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/velox-core
+git clone https://github.com/zinzied/velox-core
 cd velox-core
 
 # Install in development mode
